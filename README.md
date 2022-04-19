@@ -2,7 +2,7 @@
 - 👀 I’m interested in data wrangling, analytics, engineering
 - 🌱 I’m currently in a junior data analyst program at NPower Canada
 - 💞️ I’m looking to collaborate on projects that involve cleaning and using data for solutions
-- 📫 You can reach me at laeticiaosemeke@gmail.com
+- 📫 You can reach me at lo.osemeke@gmail.com
 
 <!---
 losemeke/losemeke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
