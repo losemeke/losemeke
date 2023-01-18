@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lettie
-- 👀 I have proficiency and working knowledge of data analytics world and interested in data wrangling, analytics, engineering
-- 🌱 I’m a recent grad of the Junior Data Analyst Program at NPower Canada
+- 👀 I have proficiency and working knowledge of project management and data analytics, and interested in managing project and data analytics
+- 🌱 I’m a recent grad of the career transition program at NPower Canada and I have the Google Project Management Certificate, IBM Data Analyst  Professional Certificate and Microsoft Azure Fundamentals Certificate
 - 💞️ I’m looking to collaborate on projects that involve analyzing and using data for solutions
 - 📫 You can reach me at laeticiaosemeke@gmail.com
 
