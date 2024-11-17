@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Lettie
-- 👀 I have proficiency and working knowledge of project management and data analytics, and interested in managing project and data analytics
-- 🌱 I’m a recent grad of the career transition program at NPower Canada and I have the Google Project Management Certificate, IBM Data Analyst  Professional Certificate and Microsoft Azure Fundamentals Certificate
-- 💞️ I’m looking to collaborate on projects that involve analyzing and using data for solutions
-- 📫 You can reach me at laeticiaosemeke@gmail.com
+👋 Hi, I’m Lettie
+👀 I have proficiency and working knowledge of HTML, CSS, and Javascript. I am interested in web design and creating user-centred designs for digital products 
+   that improve the user experience. 
+🌱 I’m currently a junior project manager & data analyst. I have a bachelor's degree in Electrical Engineering as well as the Google Project Management 
+   Certificate, IBM Data Analyst Professional Certificate and Microsoft Azure Fundamentals Certificate
+💞️ I’m looking to collaborate on projects that involve web and UI/UX Design
+📫 You can reach me at laeticiaosemeke@gmail.com
 
 <!---
 losemeke/losemeke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
