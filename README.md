@@ -4,7 +4,7 @@
 🌱 I’m currently a junior project manager & data analyst. I have a bachelor's degree in Electrical Engineering as well as the Google Project Management 
    Certificate, IBM Data Analyst Professional Certificate and Microsoft Azure Fundamentals Certificate.
 💞️ I’m looking to collaborate on projects that involve web and UI/UX Design.
-📫 You can reach me at laeticiaosemeke@gmail.com
+📫 You can reach me at lo.osemeke@gmail.com
 
 <!---
 losemeke/losemeke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
